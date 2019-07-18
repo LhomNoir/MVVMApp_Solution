@@ -1,0 +1,11 @@
+﻿<Application x:Class="MVVM.Application.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:MVVM.Application"
+             StartupUri="pack://application:,,,/WpfApp1;component/Views/MainWindow.xaml">
+    <!-- StartupUri="pack://application:,,,/WpfApp1;component/Views/Components/Window1.xaml" -->
+    <!---StartupUri="pack://application:,,,/Sqi.MdManager.Application.Core;component/Views/MainWindow.xaml"-->
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
